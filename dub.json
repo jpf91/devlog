@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Johannes Pfau"
+	],
+	"copyright": "Copyright © 2021, Johannes Pfau",
+	"dependencies": {
+		"terminal": "~>1.0.0",
+		"vibe-d": "~>0.9.4"
+	},
+	"description": "A minimal UDP syslog server",
+	"license": "BSL-1.0",
+	"name": "devlog"
+}

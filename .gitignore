@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/devlog
+devlog.so
+devlog.dylib
+devlog.dll
+devlog.a
+devlog.lib
+devlog-test-*
+*.exe
+*.o
+*.obj
+*.lst
