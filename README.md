@@ -21,7 +21,7 @@ Alternatively, you can use the DMD [docker images](https://hub.docker.com/r/dlan
 
 If you just run devlog, it will listen on all interfaces on port the standard syslog port 514.
 514 is a priviledged port, so you'd have to run devlog with system rights.
-Alternatively, you can provide difference interfaces and ports to listen on:
+Alternatively, you can provide different interfaces and ports to listen on:
 
 ```bash
 ./devlog --listen 0.0.0.0:2514 --listen :::2514
