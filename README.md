@@ -10,9 +10,9 @@ you'll have to change the `logMessage` function in `source/devlog/server.d`.
 
 ## Building
 
-This tool is written in [D](dlang.org) and like most D applications can be built with dub.
+This tool is written in [D](https://dlang.org) and like most D applications can be built with dub.
 
-First download and install a compiler (e.g. [DMD](dlang.org/download), tested with version 2.094).
+First download and install a compiler (e.g. [DMD](https://dlang.org/download), tested with version 2.094).
 Then simply run `dub build` in the root folder of this repository.
 
 Alternatively, you can use the DMD [docker images](https://hub.docker.com/r/dlang2/dmd-ubuntu).
